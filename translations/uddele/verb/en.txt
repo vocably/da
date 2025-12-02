@@ -1,0 +1,4 @@
+distribute
+allocate
+dispense
+hand out

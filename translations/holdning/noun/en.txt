@@ -1,0 +1,5 @@
+attitude
+opinion
+stance
+view
+position

@@ -1,0 +1,3 @@
+entail
+involve
+imply

@@ -1,0 +1,4 @@
+meet
+make
+hit
+strike

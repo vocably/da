@@ -1,0 +1,4 @@
+delivery
+emission
+submission
+yielding

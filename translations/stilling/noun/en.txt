@@ -1,0 +1,5 @@
+position
+job
+post
+stance
+situation

@@ -1,0 +1,3 @@
+stunt
+cripple
+deform

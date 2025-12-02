@@ -1,0 +1,4 @@
+deviation
+discrepancy
+variance
+anomaly

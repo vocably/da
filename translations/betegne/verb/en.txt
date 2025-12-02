@@ -1,0 +1,4 @@
+designate
+denote
+describe
+term

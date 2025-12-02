@@ -1,0 +1,3 @@
+vibration-damping
+vibration-absorbing
+shock-absorbing

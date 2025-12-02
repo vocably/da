@@ -1,0 +1,4 @@
+characteristic
+feature
+mark
+trait

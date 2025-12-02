@@ -1,0 +1,3 @@
+is pressed
+is printed
+is pushed

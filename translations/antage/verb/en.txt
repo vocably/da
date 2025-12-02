@@ -1,0 +1,5 @@
+assume
+suppose
+presume
+accept
+adopt

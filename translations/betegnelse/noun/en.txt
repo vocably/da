@@ -1,0 +1,4 @@
+term
+designation
+label
+description

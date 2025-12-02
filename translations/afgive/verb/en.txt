@@ -1,0 +1,5 @@
+give
+submit
+deliver
+emit
+release
