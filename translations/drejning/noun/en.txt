@@ -1,0 +1,5 @@
+turn
+rotation
+twist
+bend
+turning

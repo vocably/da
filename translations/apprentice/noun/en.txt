@@ -1,0 +1,5 @@
+apprentice
+trainee
+journeyman
+learner
+indentured servant

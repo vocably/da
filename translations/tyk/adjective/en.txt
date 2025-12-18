@@ -1,0 +1,9 @@
+thick
+fat
+dense
+heavy
+bulky
+stout
+massive
+opaque
+turbid

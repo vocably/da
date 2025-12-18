@@ -1,0 +1,4 @@
+exception
+exemption
+derogation
+anomaly

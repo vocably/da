@@ -1,0 +1,5 @@
+exception
+exception rule
+special rule
+derogation
+exemption

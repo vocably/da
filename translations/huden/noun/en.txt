@@ -1,0 +1,5 @@
+skin
+hide
+rind
+peel
+integument

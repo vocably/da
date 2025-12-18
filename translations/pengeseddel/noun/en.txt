@@ -1,0 +1,4 @@
+banknote
+bill
+paper money
+note

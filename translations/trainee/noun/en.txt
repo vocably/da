@@ -1,0 +1,9 @@
+trainee
+apprentice
+intern
+mentee
+novice
+rookie
+probationer
+neophyte
+fledgling

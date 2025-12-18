@@ -1,0 +1,4 @@
+fur
+coat
+pelage
+pelt
