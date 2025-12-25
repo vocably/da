@@ -1,0 +1,10 @@
+confirm
+verify
+validate
+attest
+affirm
+approve
+corroborate
+substantiate
+ratify
+endorse
