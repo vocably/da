@@ -1,0 +1,3 @@
+flowerbed
+bed
+border

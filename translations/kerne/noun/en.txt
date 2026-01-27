@@ -1,0 +1,9 @@
+core
+kernel
+seed
+gist
+crux
+essence
+nucleus
+pith
+heart

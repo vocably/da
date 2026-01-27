@@ -1,0 +1,4 @@
+rent
+hire
+lease
+let

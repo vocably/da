@@ -1,0 +1,4 @@
+hips
+hip
+haunch
+coxa

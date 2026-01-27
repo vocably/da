@@ -1,0 +1,6 @@
+core
+kernel
+nucleus
+gist
+crux
+nutmeat

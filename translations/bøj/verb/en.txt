@@ -1,0 +1,6 @@
+bend
+flex
+curve
+inflect
+yield
+bow

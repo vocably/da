@@ -1,0 +1,5 @@
+tighten
+fasten
+stretch
+span
+cover

@@ -1,0 +1,6 @@
+guesses
+conjectures
+surmises
+assumes
+supposes
+estimates

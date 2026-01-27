@@ -1,0 +1,7 @@
+guess
+conjecture
+surmise
+speculate
+assume
+presume
+estimate

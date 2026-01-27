@@ -1,0 +1,6 @@
+Gestalt
+Figur
+Erscheinung
+Person
+Charakter
+Kreatur

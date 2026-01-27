@@ -1,0 +1,4 @@
+repetition
+recurrence
+iteration
+duplication

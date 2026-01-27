@@ -1,0 +1,7 @@
+tool
+implement
+instrument
+device
+means
+method
+apparatus

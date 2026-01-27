@@ -1,0 +1,6 @@
+condition
+fitness
+stamina
+prerequisite
+endurance
+terms
