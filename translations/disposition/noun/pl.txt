@@ -1,0 +1,1 @@
+["dyspozycja","skłonność","rozporządzanie"]
