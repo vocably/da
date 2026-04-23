@@ -1,0 +1,4 @@
+fire
+shoot
+fuel
+discharge

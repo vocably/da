@@ -1,0 +1,4 @@
+stiff
+rigid
+formal
+high

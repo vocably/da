@@ -1,0 +1,4 @@
+carries
+wears
+bears
+produces

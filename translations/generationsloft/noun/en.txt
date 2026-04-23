@@ -1,0 +1,2 @@
+generation limit
+generational cap
