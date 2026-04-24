@@ -1,1 +1,3 @@
-["whakaritenga","āhua","takoto"]
+whakaritenga
+āhua
+takoto

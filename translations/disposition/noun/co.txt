@@ -1,1 +1,3 @@
-["dispusizioni","predisposizioni","tendenza"]
+dispusizioni
+predisposizioni
+tendenza

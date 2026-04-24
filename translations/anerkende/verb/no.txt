@@ -1,1 +1,3 @@
-["anerkjenne","erkjenne","godkjenne"]
+anerkjenne
+erkjenne
+godkjenne

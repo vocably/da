@@ -1,1 +1,2 @@
-["emaitza","kirol-emaitza"]
+emaitza
+kirol-emaitza

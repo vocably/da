@@ -1,1 +1,2 @@
-["ezu","ezuru oke"]
+ezu
+ezuru oke

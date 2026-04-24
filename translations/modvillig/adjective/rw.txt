@@ -1,1 +1,2 @@
-["adatanyije","ashira amanga"]
+adatanyije
+ashira amanga

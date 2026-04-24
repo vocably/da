@@ -1,1 +1,2 @@
-["kōrero whakapae","tohu"]
+kōrero whakapae
+tohu

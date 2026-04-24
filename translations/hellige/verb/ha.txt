@@ -1,1 +1,2 @@
-["tsarkake","sadaukar"]
+tsarkake
+sadaukar

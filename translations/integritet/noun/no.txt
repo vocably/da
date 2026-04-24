@@ -1,1 +1,3 @@
-["integritet","ukrenkelighet","rettskaffenhet"]
+integritet
+ukrenkelighet
+rettskaffenhet

@@ -1,1 +1,2 @@
-["vokatra","fitsapana"]
+vokatra
+fitsapana

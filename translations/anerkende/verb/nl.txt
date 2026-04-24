@@ -1,1 +1,2 @@
-["erkennen","waarderen"]
+erkennen
+waarderen

@@ -1,1 +1,2 @@
-["takasa","weka wakfu"]
+takasa
+weka wakfu

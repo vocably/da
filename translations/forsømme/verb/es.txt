@@ -1,1 +1,3 @@
-["descuidar","perder","faltar a"]
+descuidar
+perder
+faltar a

@@ -1,1 +1,2 @@
-["gwrthwynebiad","ymwrthedd"]
+gwrthwynebiad
+ymwrthedd

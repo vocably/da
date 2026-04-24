@@ -1,1 +1,2 @@
-["magpabanal","ialay"]
+magpabanal
+ialay

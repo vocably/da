@@ -1,1 +1,2 @@
-["nammentlik","benammen"]
+nammentlik
+benammen

@@ -1,1 +1,3 @@
-["kava","dispositsioon","kalduvus"]
+kava
+dispositsioon
+kalduvus

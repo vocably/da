@@ -1,1 +1,3 @@
-["erkende","wurdearje","goedkarre"]
+erkende
+wurdearje
+goedkarre

@@ -1,1 +1,2 @@
-["shenjtëroj","kushtoj"]
+shenjtëroj
+kushtoj

@@ -1,1 +1,2 @@
-["kahanga-hanga","napakaganda"]
+kahanga-hanga
+napakaganda

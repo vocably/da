@@ -1,1 +1,2 @@
-["iʻuga","togi"]
+iʻuga
+togi

@@ -1,1 +1,2 @@
-["lawang","wates"]
+lawang
+wates

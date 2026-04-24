@@ -1,1 +1,2 @@
-["naomhaigh","coisric"]
+naomhaigh
+coisric

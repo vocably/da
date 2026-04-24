@@ -1,1 +1,3 @@
-["išdėstymas","galimybė","polinkis"]
+išdėstymas
+galimybė
+polinkis

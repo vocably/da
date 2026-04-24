@@ -1,1 +1,2 @@
-["brīnišķīgs","lielisks"]
+brīnišķīgs
+lielisks

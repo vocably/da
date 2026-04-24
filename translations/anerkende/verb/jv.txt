@@ -1,1 +1,3 @@
-["ngakoni","ngajeni","nyetujoni"]
+ngakoni
+ngajeni
+nyetujoni

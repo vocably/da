@@ -1,1 +1,3 @@
-["mancà","trascurà","ùn fà"]
+mancà
+trascurà
+ùn fà

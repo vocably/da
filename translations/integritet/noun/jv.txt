@@ -1,1 +1,3 @@
-["integritas","kawibawan","kejujuran"]
+integritas
+kawibawan
+kejujuran

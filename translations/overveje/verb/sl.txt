@@ -1,1 +1,2 @@
-["premislek","upoštevati"]
+premislek
+upoštevati

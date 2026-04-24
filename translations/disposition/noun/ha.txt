@@ -1,1 +1,3 @@
-["tsari","halaye","mallaka"]
+tsari
+halaye
+mallaka

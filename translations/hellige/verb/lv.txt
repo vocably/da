@@ -1,1 +1,2 @@
-["svētīt","veltīt"]
+svētīt
+veltīt

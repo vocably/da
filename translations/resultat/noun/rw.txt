@@ -1,1 +1,2 @@
-["Igikorwa","Umukino"]
+Igikorwa
+Umukino

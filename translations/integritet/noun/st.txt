@@ -1,1 +1,3 @@
-["Bokamoso","Botšepehi","Bohlale"]
+Bokamoso
+Botšepehi
+Bohlale

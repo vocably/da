@@ -1,1 +1,3 @@
-["rancangan","hak","watak"]
+rancangan
+hak
+watak

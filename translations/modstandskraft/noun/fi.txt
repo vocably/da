@@ -1,1 +1,2 @@
-["vastustuskyky","vastustus"]
+vastustuskyky
+vastustus

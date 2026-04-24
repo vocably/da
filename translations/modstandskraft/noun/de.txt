@@ -1,1 +1,2 @@
-["Widerstandsfähigkeit","Resistenz"]
+Widerstandsfähigkeit
+Resistenz

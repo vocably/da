@@ -1,1 +1,3 @@
-["uznať","oceniť","schváliť"]
+uznať
+oceniť
+schváliť

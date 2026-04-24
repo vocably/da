@@ -1,1 +1,2 @@
-["imeline","suurepärane"]
+imeline
+suurepärane

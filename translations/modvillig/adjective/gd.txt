@@ -1,1 +1,2 @@
-["ainneamh","droch-gheanach"]
+ainneamh
+droch-gheanach

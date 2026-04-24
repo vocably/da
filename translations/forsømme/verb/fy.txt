@@ -1,1 +1,3 @@
-["forsomme","misrinne","fersitte"]
+forsomme
+misrinne
+fersitte

@@ -1,1 +1,2 @@
-["nyucekake","ngurbanake"]
+nyucekake
+ngurbanake

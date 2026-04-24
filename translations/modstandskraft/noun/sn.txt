@@ -1,1 +1,2 @@
-["simba","chivimbo"]
+simba
+chivimbo

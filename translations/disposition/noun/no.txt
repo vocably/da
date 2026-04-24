@@ -1,1 +1,3 @@
-["disposisjon","råderett","tilbøyelighet"]
+disposisjon
+råderett
+tilbøyelighet

@@ -1,1 +1,3 @@
-["Dispositioun","Uerdnung","Verdeelung"]
+Dispositioun
+Uerdnung
+Verdeelung

@@ -1,1 +1,2 @@
-["minunat","splendid"]
+minunat
+splendid

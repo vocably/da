@@ -1,1 +1,2 @@
-["sinnikas","jatkuva"]
+sinnikas
+jatkuva

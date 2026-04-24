@@ -1,1 +1,2 @@
-["rechtvaardigen","verontschuldigen"]
+rechtvaardigen
+verontschuldigen

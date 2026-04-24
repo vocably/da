@@ -1,1 +1,2 @@
-["Alaapọn","Aiduro"]
+Alaapọn
+Aiduro

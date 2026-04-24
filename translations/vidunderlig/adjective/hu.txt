@@ -1,1 +1,2 @@
-["csodálatos","bámulatos"]
+csodálatos
+bámulatos

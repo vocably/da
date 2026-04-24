@@ -1,1 +1,2 @@
-["resultat","slutställning"]
+resultat
+slutställning

@@ -1,1 +1,2 @@
-["pašventinti","įšventinti"]
+pašventinti
+įšventinti

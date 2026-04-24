@@ -1,1 +1,2 @@
-["óbeinn","undirskilinn"]
+óbeinn
+undirskilinn

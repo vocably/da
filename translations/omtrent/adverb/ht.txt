@@ -1,1 +1,2 @@
-["apeprè","preque"]
+apeprè
+preque

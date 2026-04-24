@@ -1,1 +1,3 @@
-["cynllun","trefniant","tueddiad"]
+cynllun
+trefniant
+tueddiad

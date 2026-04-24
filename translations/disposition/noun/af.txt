@@ -1,1 +1,3 @@
-["aanleg","disposisie","skikking"]
+aanleg
+disposisie
+skikking

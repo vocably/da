@@ -1,1 +1,2 @@
-["jembar","tliti"]
+jembar
+tliti

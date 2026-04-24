@@ -1,1 +1,2 @@
-["mukaddes etmek","bagyşlamak"]
+mukaddes etmek
+bagyşlamak

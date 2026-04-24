@@ -1,1 +1,2 @@
-["Ceev faj","Tswj hwm"]
+Ceev faj
+Tswj hwm

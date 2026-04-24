@@ -1,1 +1,3 @@
-["leagan amach","claonadh","diúscairt"]
+leagan amach
+claonadh
+diúscairt

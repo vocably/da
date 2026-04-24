@@ -1,1 +1,2 @@
-["hellige","vie"]
+hellige
+vie

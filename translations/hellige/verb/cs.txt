@@ -1,1 +1,2 @@
-["posvětit","zasvětit"]
+posvětit
+zasvětit

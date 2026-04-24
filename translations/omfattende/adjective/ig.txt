@@ -1,1 +1,2 @@
-["zuru oke","nke oma"]
+zuru oke
+nke oma

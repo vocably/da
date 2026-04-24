@@ -1,1 +1,2 @@
-["ārai","aukati"]
+ārai
+aukati

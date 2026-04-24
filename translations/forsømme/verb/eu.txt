@@ -1,1 +1,3 @@
-["utzitu","galdu","bete gabe utzi"]
+utzitu
+galdu
+bete gabe utzi

@@ -1,1 +1,3 @@
-["bố cục","khuynh hướng","sự sắp xếp"]
+bố cục
+khuynh hướng
+sự sắp xếp

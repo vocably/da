@@ -1,1 +1,2 @@
-["khomo","pakhomo"]
+khomo
+pakhomo

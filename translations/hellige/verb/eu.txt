@@ -1,1 +1,2 @@
-["sagratu","kontsakratu"]
+sagratu
+kontsakratu

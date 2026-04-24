@@ -1,1 +1,2 @@
-["taua","mautū"]
+taua
+mautū

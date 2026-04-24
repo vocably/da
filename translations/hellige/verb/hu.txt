@@ -1,1 +1,2 @@
-["megszentel","szentel"]
+megszentel
+szentel

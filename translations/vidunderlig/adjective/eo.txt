@@ -1,1 +1,2 @@
-["mirinda","rava"]
+mirinda
+rava

@@ -1,1 +1,2 @@
-["yashirin","ko'zda tutilgan"]
+yashirin
+ko'zda tutilgan

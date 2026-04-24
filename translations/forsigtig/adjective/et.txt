@@ -1,1 +1,2 @@
-["ettevaatlik","hoidlik"]
+ettevaatlik
+hoidlik

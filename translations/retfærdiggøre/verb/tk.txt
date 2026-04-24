@@ -1,1 +1,2 @@
-["aklamak","hakykaty subut etmek"]
+aklamak
+hakykaty subut etmek

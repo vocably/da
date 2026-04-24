@@ -1,1 +1,3 @@
-["uznawać","doceniać","zatwierdzać"]
+uznawać
+doceniać
+zatwierdzać

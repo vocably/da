@@ -1,1 +1,3 @@
-["försumma","missa","förbise"]
+försumma
+missa
+förbise

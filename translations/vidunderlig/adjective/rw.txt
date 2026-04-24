@@ -1,1 +1,2 @@
-["igitangaza","cyiza cyane"]
+igitangaza
+cyiza cyane

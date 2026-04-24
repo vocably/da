@@ -1,1 +1,2 @@
-["davamlı","mətin"]
+davamlı
+mətin

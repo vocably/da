@@ -1,1 +1,2 @@
-["tuluy-tuluyan","pengkuh"]
+tuluy-tuluyan
+pengkuh

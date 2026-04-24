@@ -1,1 +1,2 @@
-["miragarri","bikain"]
+miragarri
+bikain

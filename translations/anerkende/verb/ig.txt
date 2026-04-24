@@ -1,1 +1,3 @@
-["ịnakwere","ịghọta","ịkwado"]
+ịnakwere
+ịghọta
+ịkwado

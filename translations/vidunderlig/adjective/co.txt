@@ -1,1 +1,2 @@
-["maravigliosu","stupendu"]
+maravigliosu
+stupendu

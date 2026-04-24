@@ -1,1 +1,2 @@
-["underbar","fantastisk"]
+underbar
+fantastisk

@@ -1,1 +1,2 @@
-["dásamlegur","yndislegur"]
+dásamlegur
+yndislegur

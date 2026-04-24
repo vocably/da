@@ -1,1 +1,2 @@
-["aşamalı olarak","kademeli olarak"]
+aşamalı olarak
+kademeli olarak

@@ -1,1 +1,2 @@
-["sanktigi","konsekri"]
+sanktigi
+konsekri

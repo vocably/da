@@ -1,1 +1,3 @@
-["disposició","tendència","predisposició"]
+disposició
+tendència
+predisposició

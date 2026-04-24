@@ -1,1 +1,2 @@
-["resistenza","capacità di resistenza"]
+resistenza
+capacità di resistenza

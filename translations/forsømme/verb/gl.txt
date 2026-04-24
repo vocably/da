@@ -1,1 +1,3 @@
-["desatender","perder","incumprir"]
+desatender
+perder
+incumprir

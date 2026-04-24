@@ -1,1 +1,3 @@
-["dispożizzjoni","inklinazzjoni","tendenza"]
+dispożizzjoni
+inklinazzjoni
+tendenza

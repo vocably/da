@@ -1,1 +1,3 @@
-["neglect","miss","fail to attend"]
+neglect
+miss
+fail to attend

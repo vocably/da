@@ -1,1 +1,2 @@
-["gogaitz","nahigabe"]
+gogaitz
+nahigabe

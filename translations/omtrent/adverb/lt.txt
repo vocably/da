@@ -1,1 +1,2 @@
-["maždaug","beveik"]
+maždaug
+beveik

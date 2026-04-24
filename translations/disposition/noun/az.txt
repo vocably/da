@@ -1,1 +1,3 @@
-["dispozisiya","sərəncam","meyl"]
+dispozisiya
+sərəncam
+meyl

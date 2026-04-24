@@ -1,1 +1,2 @@
-["tsvenesa","kupira"]
+tsvenesa
+kupira

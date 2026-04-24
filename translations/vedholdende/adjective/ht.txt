@@ -1,1 +1,2 @@
-["ki pèsiste","ki dire"]
+ki pèsiste
+ki dire

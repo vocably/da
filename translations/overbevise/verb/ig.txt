@@ -1,1 +1,2 @@
-["ime ka mmadu kwenye","ime ka mmadu mata"]
+ime ka mmadu kwenye
+ime ka mmadu mata

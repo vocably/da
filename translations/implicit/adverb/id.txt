@@ -1,1 +1,2 @@
-["tersirat","terselubung"]
+tersirat
+terselubung

@@ -1,1 +1,2 @@
-["teensinnig","onwillig"]
+teensinnig
+onwillig

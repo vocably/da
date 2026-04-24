@@ -1,1 +1,2 @@
-["následek","dozvuk"]
+následek
+dozvuk

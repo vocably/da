@@ -1,1 +1,2 @@
-["manamasina","manokana"]
+manamasina
+manokana

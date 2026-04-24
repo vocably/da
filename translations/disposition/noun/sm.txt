@@ -1,1 +1,3 @@
-["fuafuaga","faiga","uiga"]
+fuafuaga
+faiga
+uiga

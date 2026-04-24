@@ -1,1 +1,3 @@
-["rêveberî","pêşnuma","meyl"]
+rêveberî
+pêşnuma
+meyl

@@ -1,1 +1,2 @@
-["um það bil","svo til"]
+um það bil
+svo til

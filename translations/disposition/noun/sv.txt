@@ -1,1 +1,3 @@
-["disposition","tillgång","benägenhet"]
+disposition
+tillgång
+benägenhet

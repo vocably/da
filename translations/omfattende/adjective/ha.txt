@@ -1,1 +1,2 @@
-["mai fadi","cikakke"]
+mai fadi
+cikakke

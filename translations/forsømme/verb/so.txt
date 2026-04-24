@@ -1,1 +1,3 @@
-["dayac","ka haray","gudan waayay"]
+dayac
+ka haray
+gudan waayay

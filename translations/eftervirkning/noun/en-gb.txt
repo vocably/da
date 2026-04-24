@@ -1,1 +1,2 @@
-["after-effect","repercussion"]
+after-effect
+repercussion

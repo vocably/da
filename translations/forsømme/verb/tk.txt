@@ -1,1 +1,3 @@
-["ähli zady taşlamak","ýaltalyk etmek","üns bermezlik"]
+ähli zady taşlamak
+ýaltalyk etmek
+üns bermezlik

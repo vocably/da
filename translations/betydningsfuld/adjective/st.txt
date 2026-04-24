@@ -1,1 +1,2 @@
-["bohlokwa","kgo"]
+bohlokwa
+kgo

@@ -1,1 +1,3 @@
-["kabul etmek","tasdik etmek","minnetdarlyk bildirmek"]
+kabul etmek
+tasdik etmek
+minnetdarlyk bildirmek

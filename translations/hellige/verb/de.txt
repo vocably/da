@@ -1,1 +1,2 @@
-["heiligen","weihen"]
+heiligen
+weihen

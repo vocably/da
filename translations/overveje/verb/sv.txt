@@ -1,1 +1,2 @@
-["överväga","betänka"]
+överväga
+betänka

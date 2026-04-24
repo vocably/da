@@ -1,1 +1,2 @@
-["düşünmək","nəzərə almaq"]
+düşünmək
+nəzərə almaq

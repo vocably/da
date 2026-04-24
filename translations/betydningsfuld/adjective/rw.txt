@@ -1,1 +1,2 @@
-["ingenzi","gifite agaciro"]
+ingenzi
+gifite agaciro

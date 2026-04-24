@@ -1,1 +1,3 @@
-["elhanyagol","elmulaszt","kihagy"]
+elhanyagol
+elmulaszt
+kihagy

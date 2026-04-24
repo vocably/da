@@ -1,1 +1,2 @@
-["paso","hangganan"]
+paso
+hangganan

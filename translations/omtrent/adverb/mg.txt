@@ -1,1 +1,2 @@
-["tokony","hoatry"]
+tokony
+hoatry

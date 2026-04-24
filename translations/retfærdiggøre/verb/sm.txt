@@ -1,1 +1,2 @@
-["fa'amaonia","puipuia"]
+fa'amaonia
+puipuia

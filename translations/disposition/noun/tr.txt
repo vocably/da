@@ -1,1 +1,3 @@
-["eğilim","düzen","taslak"]
+eğilim
+düzen
+taslak

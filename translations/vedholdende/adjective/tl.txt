@@ -1,1 +1,2 @@
-["matiyaga","paulit-ulit"]
+matiyaga
+paulit-ulit

@@ -1,1 +1,2 @@
-["bi-dilnexwazî","bi-nefretî"]
+bi-dilnexwazî
+bi-nefretî

@@ -1,1 +1,2 @@
-["zeharkakoa","ezkutukoa"]
+zeharkakoa
+ezkutukoa

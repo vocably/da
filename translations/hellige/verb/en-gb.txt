@@ -1,1 +1,2 @@
-["sanctify","dedicate"]
+sanctify
+dedicate

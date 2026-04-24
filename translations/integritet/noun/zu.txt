@@ -1,1 +1,3 @@
-["Ubuqotho","Ukungaphulwa","Ukungonakali"]
+Ubuqotho
+Ukungaphulwa
+Ukungonakali

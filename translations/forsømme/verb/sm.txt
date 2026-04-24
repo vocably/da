@@ -1,1 +1,3 @@
-["faatamala","tuulafoa'i","misia"]
+faatamala
+tuulafoa'i
+misia

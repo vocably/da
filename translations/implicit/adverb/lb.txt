@@ -1,1 +1,2 @@
-["implizit","implizéiert"]
+implizit
+implizéiert

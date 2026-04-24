@@ -1,1 +1,3 @@
-["vanrækja","missa af","sinna ekki"]
+vanrækja
+missa af
+sinna ekki

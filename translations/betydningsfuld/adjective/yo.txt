@@ -1,1 +1,2 @@
-["pataki","tó lárinrin"]
+pataki
+tó lárinrin

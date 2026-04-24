@@ -1,1 +1,2 @@
-["eshik oldi","chegara"]
+eshik oldi
+chegara

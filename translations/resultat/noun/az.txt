@@ -1,1 +1,2 @@
-["nəticə","hesab"]
+nəticə
+hesab

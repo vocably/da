@@ -1,1 +1,2 @@
-["tôn thờ","cống hiến"]
+tôn thờ
+cống hiến

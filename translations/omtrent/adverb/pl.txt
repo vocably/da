@@ -1,1 +1,2 @@
-["mniej więcej","około"]
+mniej więcej
+około

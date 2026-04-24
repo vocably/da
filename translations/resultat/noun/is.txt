@@ -1,1 +1,2 @@
-["árangur","úrslit"]
+árangur
+úrslit

@@ -1,1 +1,3 @@
-["skipulag","ráðstöfun","hneigð"]
+skipulag
+ráðstöfun
+hneigð

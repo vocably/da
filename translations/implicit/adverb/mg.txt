@@ -1,1 +1,2 @@
-["voatavo","tsy lazaina mivantana"]
+voatavo
+tsy lazaina mivantana

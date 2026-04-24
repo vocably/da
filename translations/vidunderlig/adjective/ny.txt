@@ -1,1 +1,2 @@
-["chodabwitsa","wokongola"]
+chodabwitsa
+wokongola

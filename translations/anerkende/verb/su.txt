@@ -1,1 +1,3 @@
-["ngaku","ngajenan","nyatujuan"]
+ngaku
+ngajenan
+nyatujuan

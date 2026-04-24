@@ -1,1 +1,2 @@
-["rinani","chakakosha"]
+rinani
+chakakosha

@@ -1,1 +1,2 @@
-["c inga","qwalasela"]
+c inga
+qwalasela

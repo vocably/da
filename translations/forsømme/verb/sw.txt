@@ -1,1 +1,3 @@
-["kukosa","kupuuza","kuacha"]
+kukosa
+kupuuza
+kuacha

@@ -1,1 +1,2 @@
-["gradually","in stages"]
+gradually
+in stages

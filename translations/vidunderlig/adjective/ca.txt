@@ -1,1 +1,2 @@
-["meravellós","magnífic"]
+meravellós
+magnífic

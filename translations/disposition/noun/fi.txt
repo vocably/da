@@ -1,1 +1,3 @@
-["suunnitelma","käytettävissä","taipumus"]
+suunnitelma
+käytettävissä
+taipumus

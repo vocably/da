@@ -1,1 +1,2 @@
-["Nachwirkung","Folge"]
+Nachwirkung
+Folge

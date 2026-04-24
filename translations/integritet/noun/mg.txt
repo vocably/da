@@ -1,1 +1,3 @@
-["fahaleovantena","tsy fivadihana","maha-olona"]
+fahaleovantena
+tsy fivadihana
+maha-olona

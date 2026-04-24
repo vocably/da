@@ -1,1 +1,3 @@
-["negle","maltrafi","preterlasi"]
+negle
+maltrafi
+preterlasi

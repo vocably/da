@@ -1,1 +1,3 @@
-["elrendezés","hajlam","rendelkezésre állás"]
+elrendezés
+hajlam
+rendelkezésre állás

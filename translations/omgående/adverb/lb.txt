@@ -1,1 +1,2 @@
-["direkt","ock direkt"]
+direkt
+ock direkt

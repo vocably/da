@@ -1,1 +1,2 @@
-["meraviljuż","mill-aqwa"]
+meraviljuż
+mill-aqwa

@@ -1,1 +1,2 @@
-["maravilloso","estupendo"]
+maravilloso
+estupendo

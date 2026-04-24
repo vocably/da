@@ -1,1 +1,2 @@
-["iarmhairt","iarmhír"]
+iarmhairt
+iarmhír

@@ -1,1 +1,3 @@
-["manary","tsy miraharaha","mandao"]
+manary
+tsy miraharaha
+mandao

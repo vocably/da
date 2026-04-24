@@ -1,1 +1,3 @@
-["zanemariti","propustiti","izostati"]
+zanemariti
+propustiti
+izostati

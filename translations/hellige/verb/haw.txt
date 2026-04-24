@@ -1,1 +1,2 @@
-["hoʻolaʻa","kapu"]
+hoʻolaʻa
+kapu

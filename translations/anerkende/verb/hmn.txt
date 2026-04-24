@@ -1,1 +1,3 @@
-["txais","lees paub","pom zoo"]
+txais
+lees paub
+pom zoo

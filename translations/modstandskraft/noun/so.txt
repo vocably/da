@@ -1,1 +1,2 @@
-["iska caabbin","adkaysi"]
+iska caabbin
+adkaysi

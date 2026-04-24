@@ -1,1 +1,2 @@
-["postepeno","sukcesivno"]
+postepeno
+sukcesivno

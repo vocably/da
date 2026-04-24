@@ -1,1 +1,2 @@
-["müqəddəsləşdirmək","həsr etmək"]
+müqəddəsləşdirmək
+həsr etmək

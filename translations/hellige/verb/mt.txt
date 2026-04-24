@@ -1,1 +1,2 @@
-["iqaddes","jiddedika"]
+iqaddes
+jiddedika

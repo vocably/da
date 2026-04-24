@@ -1,1 +1,3 @@
-["cydnabod","ardystio","canmol"]
+cydnabod
+ardystio
+canmol

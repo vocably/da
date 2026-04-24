@@ -1,1 +1,3 @@
-["verwaarloos","misloop","versuim"]
+verwaarloos
+misloop
+versuim

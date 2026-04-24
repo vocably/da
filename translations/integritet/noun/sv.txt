@@ -1,1 +1,3 @@
-["integritet","oantastlighet","redbarhet"]
+integritet
+oantastlighet
+redbarhet

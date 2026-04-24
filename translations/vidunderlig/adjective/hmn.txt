@@ -1,1 +1,2 @@
-["zoo siab","kaj siab"]
+zoo siab
+kaj siab

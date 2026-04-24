@@ -1,1 +1,3 @@
-["fàsírà","gbàgbé","yàgàn"]
+fàsírà
+gbàgbé
+yàgàn

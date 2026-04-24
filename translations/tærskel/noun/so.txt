@@ -1,1 +1,2 @@
-["marbad","xad"]
+marbad
+xad

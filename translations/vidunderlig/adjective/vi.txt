@@ -1,1 +1,2 @@
-["tuyệt vời","phi thường"]
+tuyệt vời
+phi thường

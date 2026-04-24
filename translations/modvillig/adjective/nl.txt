@@ -1,1 +1,2 @@
-["onwillig","tegenstribbelend"]
+onwillig
+tegenstribbelend

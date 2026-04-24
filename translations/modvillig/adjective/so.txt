@@ -1,1 +1,2 @@
-["cago","diidmo"]
+cago
+diidmo

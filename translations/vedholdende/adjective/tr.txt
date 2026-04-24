@@ -1,1 +1,2 @@
-["istikrarlı","kalıcı"]
+istikrarlı
+kalıcı

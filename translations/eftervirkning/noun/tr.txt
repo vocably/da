@@ -1,1 +1,2 @@
-["yan etki","sonuç"]
+yan etki
+sonuç

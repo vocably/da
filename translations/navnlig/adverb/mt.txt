@@ -1,1 +1,2 @@
-["spe\bjalment","partikolarment"]
+spejalment
+partikolarment

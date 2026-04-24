@@ -1,1 +1,2 @@
-["betydelsefull","viktig"]
+betydelsefull
+viktig

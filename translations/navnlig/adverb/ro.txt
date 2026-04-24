@@ -1,1 +1,2 @@
-["mai ales","în special"]
+mai ales
+în special

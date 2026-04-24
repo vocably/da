@@ -1,1 +1,3 @@
-["integridad","honestidad","coherencia"]
+integridad
+honestidad
+coherencia

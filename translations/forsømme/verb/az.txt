@@ -1,1 +1,3 @@
-["laqeyd yanaşmaq","əldən buraxmaq","yerinə yetirməmək"]
+laqeyd yanaşmaq
+əldən buraxmaq
+yerinə yetirməmək

@@ -1,1 +1,2 @@
-["-a kusita","-a ovyo"]
+-a kusita
+-a ovyo

@@ -1,1 +1,2 @@
-["Ubwitonzi","Amakenga"]
+Ubwitonzi
+Amakenga

@@ -1,1 +1,3 @@
-["disposition","plan","tendance"]
+disposition
+plan
+tendance

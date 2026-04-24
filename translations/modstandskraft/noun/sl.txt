@@ -1,1 +1,2 @@
-["odpornost","rezistenca"]
+odpornost
+rezistenca

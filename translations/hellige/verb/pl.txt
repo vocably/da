@@ -1,1 +1,2 @@
-["poświęcać","uświęcać"]
+poświęcać
+uświęcać

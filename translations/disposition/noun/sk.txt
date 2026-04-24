@@ -1,1 +1,3 @@
-["dispozícia","rozvrh","náklonnosť"]
+dispozícia
+rozvrh
+náklonnosť

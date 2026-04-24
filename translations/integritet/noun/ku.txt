@@ -1,1 +1,3 @@
-["yekparçeyî","rastgo","durustî"]
+yekparçeyî
+rastgo
+durustî

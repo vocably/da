@@ -1,1 +1,2 @@
-["kontra","riluttanti"]
+kontra
+riluttanti

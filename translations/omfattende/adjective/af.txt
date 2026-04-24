@@ -1,1 +1,2 @@
-["omvattend","uitgebreid"]
+omvattend
+uitgebreid

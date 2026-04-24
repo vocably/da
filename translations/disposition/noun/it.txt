@@ -1,1 +1,3 @@
-["disposizione","indole","tendenza"]
+disposizione
+indole
+tendenza

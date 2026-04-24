@@ -1,1 +1,2 @@
-["secuela","efecto residual"]
+secuela
+efecto residual

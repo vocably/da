@@ -1,1 +1,3 @@
-["dyspozycja","skłonność","rozporządzanie"]
+dyspozycja
+skłonność
+rozporządzanie

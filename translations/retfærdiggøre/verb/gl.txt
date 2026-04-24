@@ -1,1 +1,2 @@
-["xustificar","desculpar"]
+xustificar
+desculpar

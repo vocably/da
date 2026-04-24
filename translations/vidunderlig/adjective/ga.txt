@@ -1,1 +1,2 @@
-["iontach","álainn"]
+iontach
+álainn

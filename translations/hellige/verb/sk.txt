@@ -1,1 +1,2 @@
-["posvätiť","zasvätiť"]
+posvätiť
+zasvätiť

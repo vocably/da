@@ -1,1 +1,2 @@
-["mangai-kore","ngakau-kore"]
+mangai-kore
+ngakau-kore

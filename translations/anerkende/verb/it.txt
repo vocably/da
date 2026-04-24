@@ -1,1 +1,3 @@
-["riconoscere","apprezzare","approvare"]
+riconoscere
+apprezzare
+approvare

@@ -1,1 +1,3 @@
-["curam","comas","claonadh"]
+curam
+comas
+claonadh

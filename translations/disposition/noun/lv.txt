@@ -1,1 +1,3 @@
-["izkārtojums","rīcībā","nosliece"]
+izkārtojums
+rīcībā
+nosliece

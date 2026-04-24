@@ -1,1 +1,2 @@
-["wonnerbar","herrlech"]
+wonnerbar
+herrlech

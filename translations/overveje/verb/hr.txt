@@ -1,1 +1,2 @@
-["razmišljati","razmatrati"]
+razmišljati
+razmatrati

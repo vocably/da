@@ -1,1 +1,2 @@
-["bigyang-katwiran","ipagtanggol"]
+bigyang-katwiran
+ipagtanggol

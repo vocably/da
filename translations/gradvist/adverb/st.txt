@@ -1,1 +1,2 @@
-["butle","ka mehato"]
+butle
+ka mehato

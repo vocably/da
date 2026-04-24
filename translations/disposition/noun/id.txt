@@ -1,1 +1,3 @@
-["disposisi","kecenderungan","watak"]
+disposisi
+kecenderungan
+watak

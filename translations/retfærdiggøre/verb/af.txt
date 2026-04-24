@@ -1,1 +1,2 @@
-["regverdig","regverdig maak"]
+regverdig
+regverdig maak

@@ -1,1 +1,3 @@
-["dearmad a dhèanamh air","fàiligeadh","call"]
+dearmad a dhèanamh air
+fàiligeadh
+call

@@ -1,1 +1,2 @@
-["önemli","manidar"]
+önemli
+manidar

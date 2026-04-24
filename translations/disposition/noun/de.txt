@@ -1,1 +1,3 @@
-["die Disposition","die Veranlagung","die Verfügung"]
+die Disposition
+die Veranlagung
+die Verfügung

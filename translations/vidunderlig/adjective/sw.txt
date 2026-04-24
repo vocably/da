@@ -1,1 +1,2 @@
-["ajabu","tukufu"]
+ajabu
+tukufu

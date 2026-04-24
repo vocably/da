@@ -1,1 +1,2 @@
-["abin al'ajabi","mai ban mamaki"]
+abin al'ajabi
+mai ban mamaki

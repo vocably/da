@@ -1,1 +1,3 @@
-["uhlelo","ilungiselelo","isimo"]
+uhlelo
+ilungiselelo
+isimo

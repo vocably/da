@@ -1,1 +1,2 @@
-["kaudne","varjatud"]
+kaudne
+varjatud

@@ -1,1 +1,2 @@
-["sanala","enggal"]
+sanala
+enggal

@@ -1,1 +1,2 @@
-["musu","faamaualuga"]
+musu
+faamaualuga

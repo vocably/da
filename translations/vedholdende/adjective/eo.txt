@@ -1,1 +1,2 @@
-["persistema","daŭra"]
+persistema
+daŭra

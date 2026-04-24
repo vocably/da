@@ -1,1 +1,2 @@
-["seuil","limite"]
+seuil
+limite

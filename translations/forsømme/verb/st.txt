@@ -1,1 +1,3 @@
-["ho hlokomoloha","ho fetoa ke","ho se etse"]
+ho hlokomoloha
+ho fetoa ke
+ho se etse

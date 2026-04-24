@@ -1,1 +1,2 @@
-["lankhulani","wokwanira"]
+lankhulani
+wokwanira

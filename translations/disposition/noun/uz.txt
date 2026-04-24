@@ -1,1 +1,3 @@
-["joylashuv","moyillik","reja"]
+joylashuv
+moyillik
+reja

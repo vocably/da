@@ -1,1 +1,2 @@
-["mahazaka","mahatanty"]
+mahazaka
+mahatanty

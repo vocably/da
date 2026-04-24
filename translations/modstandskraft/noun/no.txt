@@ -1,1 +1,2 @@
-["motstandskraft","immunitet"]
+motstandskraft
+immunitet

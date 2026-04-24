@@ -1,1 +1,3 @@
-["heilindi","óskemmd","réttlæti"]
+heilindi
+óskemmd
+réttlæti

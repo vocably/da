@@ -1,1 +1,3 @@
-["susunan","kecenderungan","hak"]
+susunan
+kecenderungan
+hak

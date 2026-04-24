@@ -1,1 +1,2 @@
-["nënkuptuar","i nënkuptuar"]
+nënkuptuar
+i nënkuptuar

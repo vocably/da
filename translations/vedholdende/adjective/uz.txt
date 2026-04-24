@@ -1,1 +1,2 @@
-["qat'iy","bardoshli"]
+qat'iy
+bardoshli
