@@ -1,0 +1,3 @@
+greet
+say hello
+hail

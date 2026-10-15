@@ -1,0 +1,4 @@
+man
+person
+husband
+one

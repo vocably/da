@@ -1,0 +1,4 @@
+walk
+time
+corridor
+way

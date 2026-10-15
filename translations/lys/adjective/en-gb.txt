@@ -1,0 +1,4 @@
+light
+bright
+fair
+clear

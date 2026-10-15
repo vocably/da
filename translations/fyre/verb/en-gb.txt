@@ -1,0 +1,4 @@
+fire
+sack
+shoot
+fuel

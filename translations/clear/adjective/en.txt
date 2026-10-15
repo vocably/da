@@ -1,0 +1,4 @@
+clear
+ready
+transparent
+bright

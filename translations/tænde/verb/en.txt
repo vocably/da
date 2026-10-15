@@ -1,0 +1,3 @@
+light
+turn on
+ignite
